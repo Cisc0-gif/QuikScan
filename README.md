@@ -10,6 +10,7 @@ Once finished just enter ``` sudo quikscan #.#.#.# ``` to begin the process and 
 
 ## Built With
 
+* [Ipinfo.io](<https://ipinfo.io>) - IP Geolocating API
 * [RustScan](<https://github.com/RustScan/RustScan>) - Pipes open ports into Nmap for faster results
 * Kali Linux - Pentesting OS developed by Offensive Security
 * GitHub - This Website!
